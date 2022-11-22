@@ -7,6 +7,7 @@
 > H : Hesitate to Buy, A : Anytime, Anywhere, R : Renew Everything, D : Desire to Safe
 
 ![유통키워드2](https://user-images.githubusercontent.com/108326573/203228105-832ad821-b79f-43a7-8cf7-7ebbf313154f.jpg)
+
 -> 코리아 블랙프라이데이, K-세일데이 행사, 옵니채널, 메르스, 유가공육 이슈 등 다양한 이슈 생성 및 유통 트렌드 변화
 
 ## 2. 데이터 탐색
