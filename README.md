@@ -1,43 +1,17 @@
-# 구매 감소 고객 예측 및 추천 솔루션
+# 발표자료
+file:///C:/Users/K/Desktop/%EC%A0%95%ED%98%84/%EA%B5%AC%EB%A7%A4%EA%B0%90%EC%86%8C%20%EA%B3%A0%EA%B0%9D%20%EC%98%88%EC%B8%A1%20%EB%B0%8F%20%EC%B6%94%EC%B2%9C%20%EC%86%94%EB%A3%A8%EC%85%98.pdf
+# 발표주제
+구매감소 고객 예측 및 추천 솔루션
+# 요약
+L사의 데이터를 활용하여 고객의 구매 패턴을 파악한 후, 구매 감소 고객 예측 모델을 구축하여 같은 특징을 갖는 고객을 군집화 한 후 해당 고객별로 추천솔루션을 통한 맞춤 마케팅을 제언합니다. 
+## 사용한 모듈
+- 언어 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+- DB <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> 
+- 구축환경 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
+# 과정
+제공 받은 데이터를 분석하여 pain point를 찾고, 주제선정에 맞게 기존 고객에 대해 유지고객과 감소고객을 새로 정의하였습니다. 
+그 후 분석에 필요한 데이터를 추출해내어 분석을 진행했습니다. 
+사용된 모델을 통해 군집분석을 하였고, 군집화를 통해 5개의 고객군으로 나누었습니다. Tensorflow를 활용해 군집별 구매 특성을 파악하여 중점적으로 봐야할 상품을 파악한 후 surprise를 활용해 군집별 맞춤 추천시스템을 최종 마케팅 제언으로 제공하였습니다. 
 
-## 1. 기획배경
-
-### 외부요인
-- L사 마트 2015년 유통 키워드 : **HARD**
-> H : Hesitate to Buy, A : Anytime, Anywhere, R : Renew Everything, D : Desire to Safe
-
-![유통키워드2](https://user-images.githubusercontent.com/108326573/203228105-832ad821-b79f-43a7-8cf7-7ebbf313154f.jpg)
-
--> 코리아 블랙프라이데이, K-세일데이 행사, 옵니채널, 메르스, 유가공육 이슈 등 다양한 이슈 생성 및 유통 트렌드 변화
-
-## 2. 데이터 탐색
-### 활용 데이터
-- 대상 : 2014~2015년도에 L사에 4개의 계열사에서 구매한 고객
-- 데이터 종류 : 고객기본정보(고객번호, 성별, 연령대, 거주지역), 경쟁사이용(고객번호, 제휴사, 경쟁사, 이용연월),
-               멤버십 여부(고객번호, 멤버십명, 가입년월), 상품분류(제휴사, 대중소분류코드, 중소분류명), 
-               채널 이용(고객번호, 제휴사, 이용횟수), 구매데이터(제휴사, 영수증번호, 대중소분류코드, 점포코드, 구매날짜, 구매시간, 구매금액)
-
-### 데이터 분포 확인
-- 전체 단위, 분기별, 월별 단위로 데이터 확인
-![데이터1](https://user-images.githubusercontent.com/108326573/203228253-3b879918-3f93-4b7b-9131-a1ccbf5e72e8.jpg)
-
-### 매출 확인 
-![매출확인1](https://user-images.githubusercontent.com/108326573/203228298-fc60aaf6-d717-4e31-8c13-691c8f648ad5.jpg)
-
-### 유지고객 정의
-![유지고객](https://user-images.githubusercontent.com/108326573/203228333-6f05c5a0-1074-4698-8add-7db5a71aeab0.jpg)
-
-### 감소소객 확인 후 정의
-- 감소고객 확인
-![감소고객확인](https://user-images.githubusercontent.com/108326573/203228365-eeed76af-56eb-4e0d-8805-c76a76ca01cf.jpg)
-
-- 감소고객 정의
-![감소고객정의](https://user-images.githubusercontent.com/108326573/203228397-eee2d547-64ac-4271-8f25-209d88dd4c36.jpg)
-
-## 3. 주제 선정
-
-## 4. 모델 학습 예측 & 평가
-
-## 5. 군집화
-
-## 6. 마케팅 제언_ 추천 시스템 
+# 어려웠던 점 
+데이터내에 
