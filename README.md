@@ -22,7 +22,8 @@ L사의 데이터를 활용하여 고객의 구매 패턴을 파악한 후, 구�
 - 언어 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 - DB <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> 
 - 구축환경 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
-- 활용 기술 : surprise, scikit-learn, pycaret
+- 활용 기술 : Surprise, Scikit-learn, Pycaret
+- 통합 개발 환경: Anaconda, Jupyter Notebook
 
 <br/>
 
