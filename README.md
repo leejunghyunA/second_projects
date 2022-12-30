@@ -1,6 +1,6 @@
 # 발표자료
 
-https://rb.gy/h3rrvx
+shorturl.at/iEI14
 
 # 발표주제
 구매감소 고객 예측 및 추천 솔루션
