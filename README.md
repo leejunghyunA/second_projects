@@ -1,7 +1,7 @@
 # 발표자료
-file:///C:/Users/K/Desktop/%EC%A0%95%ED%98%84/%EA%B5%AC%EB%A7%A4%EA%B0%90%EC%86%8C%20%EA%B3%A0%EA%B0%9D%20%EC%98%88%EC%B8%A1%20%EB%B0%8F%20%EC%B6%94%EC%B2%9C%20%EC%86%94%EB%A3%A8%EC%85%98.pdf
 
-구매감소 고객 예측 및 추천 솔루션.pptx
+https://rb.gy/h3rrvx
+
 # 발표주제
 구매감소 고객 예측 및 추천 솔루션
 # 요약
