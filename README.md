@@ -52,3 +52,5 @@ L사의 데이터를 활용하여 고객의 구매 패턴을 파악한 후, 구�
 | 양주희 | ... | 
 | 진청아 | 엄청난 크기의 실제 데이터를 팀원들과 함께 분석하면서 여러 어려움을 겪기도 했었지만 배운 점도 많았습니다. 데이터를 표면적으로만 보았을 때와 Deep-Dive를 통하여 내부를 보았을 때 확연히 다른 인사이트를 얻을 수 있는 것에 큰 흥미를 느꼈고 정밀한 탐색적 분석의 중요성을 크게 깨닫게 되었습니다. 과거 구매 기록이란 시차열 데이터를 활용하여 구매 감소 고객을 분류하는 모델을 만들어야 했기 때문에 어떤 기준으로 훈련 데이터와 검증 및 테스트 데이터를 정의해야 할지 헷갈리면서 어렵게 느껴졌었지만 꾸준한 팀원들과의 회의 및 강사님의 피드백을 통해 모델을 잘 구현할 수 있었던 것 같습니다. 
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=myspace.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
