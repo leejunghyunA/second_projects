@@ -1,6 +1,6 @@
 # 📊 발표주제 및 자료
 ### 구매감소 고객 예측 및 추천 솔루션
-[![발표자료 보러가기](https://user-images.githubusercontent.com/108326629/210029729-f3f9c7db-737b-4d11-b542-7294d28031e3.png "발표자료 보러가기")](https://github.com/leejunghyunA/second_projects/blob/761a779880515ff73c8a8cdf052d43f47b12c0b9/%E1%84%80%E1%85%AE%E1%84%86%E1%85%A2%E1%84%80%E1%85%A1%E1%86%B7%E1%84%89%E1%85%A9%20%E1%84%80%E1%85%A9%E1%84%80%E1%85%A2%E1%86%A8%20%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB%20%E1%84%89%E1%85%A9%E1%86%AF%E1%84%85%E1%85%AE%E1%84%89%E1%85%A7%E1%86%AB.pptx)<br/>
+[![발표자료 보러가기](https://user-images.githubusercontent.com/108326629/210029729-f3f9c7db-737b-4d11-b542-7294d28031e3.png "발표자료 보러가기")](https://docs.google.com/presentation/d/1t8-dkB2IBRQoJ1jgA2k_jGG7kQ5l39Zg/edit#slide=id.p1)<br/>
 
 <br/>
 
@@ -22,8 +22,8 @@ L사의 데이터를 활용하여 고객의 구매 패턴을 파악한 후, 구�
 - 언어 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 - DB <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> 
 - 구축환경 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
-- 활용 기술 : Surprise, Scikit-learn, Pycaret
-- 통합 개발 환경: Anaconda, Jupyter Notebook
+- 활용 기술 <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black"/> <img src="https://img.shields.io/badge/Surprise-3776AB?"/> <img src="https://img.shields.io/badge/Pycaret-3776AB?"/>
+- 통합 개발 환경 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=black"/>
 
 <br/>
 
@@ -48,9 +48,8 @@ L사의 데이터를 활용하여 고객의 구매 패턴을 파악한 후, 구�
 | 팀원 | 어려웠던 점과 배운 점 | 
 | ------ | -- | 
 | 최애림 | 평소에 접하기 힘든 빅데이터를 가지고 실습할 수 있는 좋은 기회였습니다. 감소고객을 정의하는 것부터 고객 유형을 나누는 군집화까지 모두 데이터를 기반으로 할 수 있다는 점과 어떤 마케팅적 제언이 필요한지 등 실무에서 해볼 수 있을 만한 부분을 고민할 수 있어 유익한 시간이었습니다. 모델 구축 시 구매감소 예측을 위해 어떤 피처가 중요하게 작용할지 고민해보고 다양한 아이디어를 시도해본 부분이 가장 크게 배운 점입니다. 2년이라는 구매 기간의 시계열적인 부분을 고려하지 못해 최종 모델 구축에 혼선이 있었지만 팀원들과의 적극적인 소통과 배려로 끝까지 잘 마무리할 수 있었습니다.| 
-| 이정현 | ... |
+| 이정현 | Oracle을 사용해 실제 구매 데이터를 다루면서 많은 점을 배웠습니다. 방대한 데이터 중 필요한 정보만 추출하고 문제점을 발견하는 것이 데이터 분석에 있어 가장 중요하다 느꼈습니다. 또한, 단순히 주어진 데이터뿐만 아니라 해당 데이터와 관련된 외부 데이터 즉, 도메인 지식의 중요성을 다시 한번 느끼게 되었습니다. 구매 감소 모델 생성 시 많은 요인을 적용하면 모델 결과가 떨어지기 때문에 필요한 핵심 요인만 추출하고 새로운 파생 변수를 생성하였는데 그러면서 다양한 방법으로 데이터를 다루는 능력을 향상시켜준 경험이었습니다. 처음에 구매 기간의 시계열적인 부분을 생각하지 않고 데이터를 합쳐서 잘못된 방향으로 갔었지만, 강사님의 조언과 팀원들 간의 소통 및 화합으로 올바른 방향으로 갈 수 있었습니다.|
 | 양주희 | ... | 
 | 진청아 | 엄청난 크기의 실제 데이터를 팀원들과 함께 분석하면서 여러 어려움을 겪기도 했었지만 배운 점도 많았습니다. 데이터를 표면적으로만 보았을 때와 Deep-Dive를 통하여 내부를 보았을 때 확연히 다른 인사이트를 얻을 수 있는 것에 큰 흥미를 느꼈고 정밀한 탐색적 분석의 중요성을 크게 깨닫게 되었습니다. 과거 구매 기록이란 시차열 데이터를 활용하여 구매 감소 고객을 분류하는 모델을 만들어야 했기 때문에 어떤 기준으로 훈련 데이터와 검증 및 테스트 데이터를 정의해야 할지 헷갈리면서 어렵게 느껴졌었지만 꾸준한 팀원들과의 회의 및 강사님의 피드백을 통해 모델을 잘 구현할 수 있었던 것 같습니다. 
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FleejunghyunA%2Fsecond_projects%2Fblob%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoi-aerim%2F220924_1027-ML-project&count_bg=%23D54A1C&title_bg=%23555555&icon=myspace.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
